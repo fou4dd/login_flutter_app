@@ -15,6 +15,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0
   flutter_native_splash: ^2.3.6
+  liquid_swipe: ^3.0.0
+  smooth_page_indicator: ^1.0.0+2
 
 dev_dependencies:
   flutter_test:
@@ -40,6 +42,7 @@ flutter:
   assets:
   - assets/images/book.png
   - assets/images/sub.png
-  - assets/images/brownies.png
+  - assets/images/on_boarding_images/
+  - assets/images/brownies_logo.png
 
 

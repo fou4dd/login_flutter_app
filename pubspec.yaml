@@ -14,19 +14,32 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0
+  flutter_native_splash: ^2.3.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
+    
   flutter_lints: ^2.0.0
-
+  
+flutter_native_splash:
+  color: "ffffff"
+  image: assets/images/brownies.png     
+  
+  android_12:
+    image: assets/images/brownies.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/brownies.png
+    icon_background_color_dark: "#121212"
+  web: false
 
 flutter:
   uses-material-design: true
 
   assets:
   - assets/images/book.png
+  - assets/images/sub.png
+  - assets/images/brownies.png
 
 

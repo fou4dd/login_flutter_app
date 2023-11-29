@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:login_flutter_app/src/utils/theme/theme.dart';
 
-void main() => runApp(const App());
+void main() {
+   runApp(const App());
+}
 
 
 class App extends StatelessWidget {

@@ -1,4 +1,8 @@
 
+//Generic Strings
+const String tLogin = "Login";
+const String tSignup = "Sugnup";
+
 
 const String tAppName = "Loopi Brownies"; 
 const String tAppTagLine = "The delicious brwnies you'll ever have";
@@ -12,3 +16,6 @@ const String tOnBoardingSubTitle3 = "Save time and enjoy your break time with so
 const String tOnBoardingCounter1 = "1/3";
 const String tOnBoardingCounter2 = "2/3";
 const String tOnBoardingCounter3 = "3/3";
+
+const String tWelcomTitle = "Try our Brownies";
+const String tWelcomSubTitle = "Begin your day with the most delicious sweet out there the golden brownies";

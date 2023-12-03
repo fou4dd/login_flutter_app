@@ -1,7 +1,14 @@
 
-//Generic Strings
+// -- GLOBAL Texts
+const String tNext = "Next";
 const String tLogin = "Login";
-const String tSignup = "Sugnup";
+const String tEmail = "E-Mail";
+const String tSignup = "Signup";
+const String tPhoneNo = "Phone No";
+const String tPassword = "Password";
+const String tFullName = "Full Name";
+const String tForgetPassword = "Forget Password";
+const String tSignInWithGoogle = "Sign-In with Google";
 
 
 const String tAppName = "Loopi Brownies"; 
@@ -19,3 +26,9 @@ const String tOnBoardingCounter3 = "3/3";
 
 const String tWelcomTitle = "Try our Brownies";
 const String tWelcomSubTitle = "Begin your day with the most delicious sweet out there the golden brownies";
+
+// -- Login Screen Text
+const String tLoginTitle = "Welcome Back,";
+const String tLoginSubTitle = "Make it work, make it right, make it fast.";
+const String tRememberMe = "Remember Me?";
+const String tDontHaveAnAccount = "Don't have an Account? ";

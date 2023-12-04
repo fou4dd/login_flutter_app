@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_flutter_app/src/constants/image_strings.dart';
 import 'package:login_flutter_app/src/constants/sizes.dart';
-import 'package:login_flutter_app/src/constants/text_strings.dart';
 
 import 'login_footer_widget.dart';
 import 'login_form_widget.dart';
